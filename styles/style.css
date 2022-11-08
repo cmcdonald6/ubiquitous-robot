@@ -1,3 +1,7 @@
 body{
-    background-image: linear-gradient(to bottom left, orchid, blue);
+    background-color: linear-gradient(to bottom left, orchid, blue);
+}
+
+.row{
+  background-color: linear-gradient(to bottom left, blue, orchid) ;
 }
